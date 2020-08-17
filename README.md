@@ -7,3 +7,5 @@ I will update this version as soon as time allows.
 
 There is a small file that describes the method and a larger file that includes all 
 the entries.
+
+The RTF file is the one to be imported into Plover.
